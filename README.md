@@ -1,1 +1,1 @@
-// la lógica para resolver el problema.
+Lógica para resolver el problema.
